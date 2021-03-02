@@ -1,0 +1,11 @@
+{
+   ExpandedHierarchyInLayout: "",
+   guistr: "# # String gsaved with Nlview 6.6.11  2017-06-12 bk=1.3860 VDI=40 GEI=35 GUI=JA:1.6
+#  -string -flagsOSRD
+preplace inst and32_0 -pg 1 -lvl 3 -y 0 -defaultsOSRD
+preplace inst MUX2T1_32_0 -pg 1 -lvl 1 -y -120 -defaultsOSRD
+preplace inst xor32_0 -pg 1 -lvl 2 -y 0 -defaultsOSRD
+levelinfo -pg 1 0 100 290 480 580 -top -190 -bot 170
+",
+}
+

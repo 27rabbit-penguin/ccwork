@@ -28,7 +28,6 @@ module MUX2T1_5_TB(
     MUX2T1_5 m1 (.I0(I0), .I1(I1), .s(s), .O(O));
     
     initial begin
-    
         #100
         I0 = 4'b1111;
         I1 = 4'b0000;
@@ -38,9 +37,6 @@ module MUX2T1_5_TB(
         #100
         
         s = 1'b0;
-        
-        
-    
     end
     
 endmodule
