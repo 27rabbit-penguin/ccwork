@@ -50,6 +50,111 @@
           <spirit:configurableElementValue spirit:referenceId="bd:xciName">OExp01_Element_MUX2T1_32_0_0</spirit:configurableElementValue>
         </spirit:configurableElementValues>
       </spirit:componentInstance>
+      <spirit:componentInstance>
+        <spirit:instanceName>MUX2T1_5_0</spirit:instanceName>
+        <spirit:componentRef spirit:library="user" spirit:name="MUX2T1_5" spirit:vendor="xilinx.com" spirit:version="1.0"/>
+        <spirit:configurableElementValues>
+          <spirit:configurableElementValue spirit:referenceId="bd:xciName">OExp01_Element_MUX2T1_5_0_0</spirit:configurableElementValue>
+        </spirit:configurableElementValues>
+      </spirit:componentInstance>
+      <spirit:componentInstance>
+        <spirit:instanceName>MUX2T1_8_0</spirit:instanceName>
+        <spirit:componentRef spirit:library="user" spirit:name="MUX2T1_8" spirit:vendor="xilinx.com" spirit:version="1.0"/>
+        <spirit:configurableElementValues>
+          <spirit:configurableElementValue spirit:referenceId="bd:xciName">OExp01_Element_MUX2T1_8_0_0</spirit:configurableElementValue>
+        </spirit:configurableElementValues>
+      </spirit:componentInstance>
+      <spirit:componentInstance>
+        <spirit:instanceName>MUX2T1_64_0</spirit:instanceName>
+        <spirit:componentRef spirit:library="user" spirit:name="MUX2T1_64" spirit:vendor="xilinx.com" spirit:version="1.0"/>
+        <spirit:configurableElementValues>
+          <spirit:configurableElementValue spirit:referenceId="bd:xciName">OExp01_Element_MUX2T1_64_0_0</spirit:configurableElementValue>
+        </spirit:configurableElementValues>
+      </spirit:componentInstance>
+      <spirit:componentInstance>
+        <spirit:instanceName>MUX4T1_5_0</spirit:instanceName>
+        <spirit:componentRef spirit:library="user" spirit:name="MUX4T1_5" spirit:vendor="xilinx.com" spirit:version="1.0"/>
+        <spirit:configurableElementValues>
+          <spirit:configurableElementValue spirit:referenceId="bd:xciName">OExp01_Element_MUX4T1_5_0_0</spirit:configurableElementValue>
+        </spirit:configurableElementValues>
+      </spirit:componentInstance>
+      <spirit:componentInstance>
+        <spirit:instanceName>MUX4T1_32_0</spirit:instanceName>
+        <spirit:componentRef spirit:library="user" spirit:name="MUX4T1_32" spirit:vendor="xilinx.com" spirit:version="1.0"/>
+        <spirit:configurableElementValues>
+          <spirit:configurableElementValue spirit:referenceId="bd:xciName">OExp01_Element_MUX4T1_32_0_0</spirit:configurableElementValue>
+        </spirit:configurableElementValues>
+      </spirit:componentInstance>
+      <spirit:componentInstance>
+        <spirit:instanceName>MUX8T1_8_0</spirit:instanceName>
+        <spirit:componentRef spirit:library="user" spirit:name="MUX8T1_8" spirit:vendor="xilinx.com" spirit:version="1.0"/>
+        <spirit:configurableElementValues>
+          <spirit:configurableElementValue spirit:referenceId="bd:xciName">OExp01_Element_MUX8T1_8_0_0</spirit:configurableElementValue>
+        </spirit:configurableElementValues>
+      </spirit:componentInstance>
+      <spirit:componentInstance>
+        <spirit:instanceName>MUX8T1_32_0</spirit:instanceName>
+        <spirit:componentRef spirit:library="user" spirit:name="MUX8T1_32" spirit:vendor="xilinx.com" spirit:version="1.0"/>
+        <spirit:configurableElementValues>
+          <spirit:configurableElementValue spirit:referenceId="bd:xciName">OExp01_Element_MUX8T1_32_0_0</spirit:configurableElementValue>
+        </spirit:configurableElementValues>
+      </spirit:componentInstance>
+      <spirit:componentInstance>
+        <spirit:instanceName>add_32_0</spirit:instanceName>
+        <spirit:componentRef spirit:library="user" spirit:name="add_32" spirit:vendor="xilinx.com" spirit:version="1.0"/>
+        <spirit:configurableElementValues>
+          <spirit:configurableElementValue spirit:referenceId="bd:xciName">OExp01_Element_add_32_0_0</spirit:configurableElementValue>
+        </spirit:configurableElementValues>
+      </spirit:componentInstance>
+      <spirit:componentInstance>
+        <spirit:instanceName>addc_32_0</spirit:instanceName>
+        <spirit:componentRef spirit:library="user" spirit:name="addc_32" spirit:vendor="xilinx.com" spirit:version="1.0"/>
+        <spirit:configurableElementValues>
+          <spirit:configurableElementValue spirit:referenceId="bd:xciName">OExp01_Element_addc_32_0_0</spirit:configurableElementValue>
+        </spirit:configurableElementValues>
+      </spirit:componentInstance>
+      <spirit:componentInstance>
+        <spirit:instanceName>nor32_0</spirit:instanceName>
+        <spirit:componentRef spirit:library="user" spirit:name="nor32" spirit:vendor="xilinx.com" spirit:version="1.0"/>
+        <spirit:configurableElementValues>
+          <spirit:configurableElementValue spirit:referenceId="bd:xciName">OExp01_Element_nor32_0_0</spirit:configurableElementValue>
+        </spirit:configurableElementValues>
+      </spirit:componentInstance>
+      <spirit:componentInstance>
+        <spirit:instanceName>or32_0</spirit:instanceName>
+        <spirit:componentRef spirit:library="user" spirit:name="or32" spirit:vendor="xilinx.com" spirit:version="1.0"/>
+        <spirit:configurableElementValues>
+          <spirit:configurableElementValue spirit:referenceId="bd:xciName">OExp01_Element_or32_0_0</spirit:configurableElementValue>
+        </spirit:configurableElementValues>
+      </spirit:componentInstance>
+      <spirit:componentInstance>
+        <spirit:instanceName>or_bit_32_0</spirit:instanceName>
+        <spirit:componentRef spirit:library="user" spirit:name="or_bit_32" spirit:vendor="xilinx.com" spirit:version="1.0"/>
+        <spirit:configurableElementValues>
+          <spirit:configurableElementValue spirit:referenceId="bd:xciName">OExp01_Element_or_bit_32_0_0</spirit:configurableElementValue>
+        </spirit:configurableElementValues>
+      </spirit:componentInstance>
+      <spirit:componentInstance>
+        <spirit:instanceName>SignalExt_32_0</spirit:instanceName>
+        <spirit:componentRef spirit:library="user" spirit:name="SignalExt_32" spirit:vendor="xilinx.com" spirit:version="1.0"/>
+        <spirit:configurableElementValues>
+          <spirit:configurableElementValue spirit:referenceId="bd:xciName">OExp01_Element_SignalExt_32_0_0</spirit:configurableElementValue>
+        </spirit:configurableElementValues>
+      </spirit:componentInstance>
+      <spirit:componentInstance>
+        <spirit:instanceName>srl32_0</spirit:instanceName>
+        <spirit:componentRef spirit:library="user" spirit:name="srl32" spirit:vendor="xilinx.com" spirit:version="1.0"/>
+        <spirit:configurableElementValues>
+          <spirit:configurableElementValue spirit:referenceId="bd:xciName">OExp01_Element_srl32_0_0</spirit:configurableElementValue>
+        </spirit:configurableElementValues>
+      </spirit:componentInstance>
+      <spirit:componentInstance>
+        <spirit:instanceName>xor32_1</spirit:instanceName>
+        <spirit:componentRef spirit:library="user" spirit:name="xor32" spirit:vendor="xilinx.com" spirit:version="1.0"/>
+        <spirit:configurableElementValues>
+          <spirit:configurableElementValue spirit:referenceId="bd:xciName">OExp01_Element_xor32_1_0</spirit:configurableElementValue>
+        </spirit:configurableElementValues>
+      </spirit:componentInstance>
     </spirit:componentInstances>
   </spirit:design>
 

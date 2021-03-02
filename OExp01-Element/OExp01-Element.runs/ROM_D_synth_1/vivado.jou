@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Tue Mar  2 20:31:36 2021
+# Process ID: 11856
+# Current directory: D:/ccwork/OExp01-Element/OExp01-Element.runs/ROM_D_synth_1
+# Command line: vivado.exe -log ROM_D.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source ROM_D.tcl
+# Log file: D:/ccwork/OExp01-Element/OExp01-Element.runs/ROM_D_synth_1/ROM_D.vds
+# Journal file: D:/ccwork/OExp01-Element/OExp01-Element.runs/ROM_D_synth_1\vivado.jou
+#-----------------------------------------------------------
+source ROM_D.tcl -notrace
